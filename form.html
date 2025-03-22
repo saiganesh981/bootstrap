@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>simple validation file by using html and js</title>
+    <link rel="stylesheet" href="css/form.css">
+    <link rel="stylesheet" href="js/form.js">
+    <script src="js/form.js"></script>
+</head>
+<body>
+    <form id="form"method="post">
+        <div id="message"></div>
+        <input type="text" id="username" placeholder="username" required/><br><br>
+        <input type="password" id="password" placeholder="password" required/><br><br>
+        <input type="submit" value="Register"/>
+    </form>
+    <body>
+        <script>
+            var form=document.getElementById('form');  
+
+            var error=[]
+            
+            
+            form.addEventListener('submit',function(e){
+             e.preventDefault();
+
+             var username=document.getElementById('username')
+             var password=document.getElementById('password')
+
+             if(username.value ==''){
+                error.push("please enter the username")
+             }
+             if(password.value ==''){
+                error.push("please enter the password") 
+             }
+
+             alert("form is submitted")
+
+             var message=document.getElementById('message')
+
+             message.innerText=error
+              
+            })
+        </script>
+    </body>
+</body>
+</html>

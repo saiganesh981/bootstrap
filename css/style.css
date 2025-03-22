@@ -1,0 +1,390 @@
+.header{
+    height: 50px;
+    background-color: lightcoral;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+.logo img {
+    width: 300px; 
+    height: 80px; 
+  }
+  .navbar{
+    background-color: white;
+  }
+  .background{
+    background-image: url("../assets/WhatsApp\ Image\ 2024-12-20\ at\ 11.10.38_6172ab64.jpg");
+    height: 500px;
+    
+  }
+  .image{
+    text-align: right;
+    font-family: calibri;
+    color: white;
+    font-style: inherit;
+    padding-top: 80px;
+    margin-right: 200px;
+  }
+  .text1{
+    text-align: center;
+    margin-top: 70px;
+    color: black;
+  }
+  .A1{
+    text-align: center;
+  }
+  .bi bi-bag{
+    font-size: 30px;
+    color: brown;
+  }
+ 
+.card{
+    width:auto;
+    border-radius:8px ;
+    height: auto;
+   
+    margin-left: 10px;
+ 
+}
+
+
+.text{
+   color: white;
+   background-color: green;
+   padding:5%;
+}
+.A4{
+  height: 300px;
+}
+.A5{
+  height: 300px;
+   width: 300px;
+
+}
+.select_style {
+  width: 150px;
+}
+.A6{
+    height: 300px;
+     width: 300px;
+  }
+  .align{
+    text-align: center;
+    padding-top: 200px;
+  }
+  .Top{
+    border-radius: 25px;
+    height: 400px;
+    width: 600px;
+    margin-top: 150px;
+  }
+  .bottom1{
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+  }
+  .bottom2{
+    height: 350px;
+    width: 300px;
+    margin-top: -450px;
+    border-radius: 30px;
+    margin-left: 150px;
+  }
+   .style{
+    margin-top: 50px;
+  }
+.backgroundimage{
+   background-image: url("../assets/WhatsApp Image 2024-12-20 at 11.10.38_6172ab64.jpg");
+  height: 600px;
+  width: 100%;
+  color: antiquewhite;
+  text-align: center;
+   padding-top: 200px;
+  
+}
+.ram{
+  clip-path: circle(8%);
+margin-top: -150px;
+
+}
+.A10{
+margin-top: -130px;
+}
+.A11{
+  background-color: green;
+  color: white;
+ 
+}
+.rues{
+  margin-top: 200px;
+  text-align: center;
+ padding-left: 50px;
+ 
+}
+.rathod{
+  margin-left: 270px;
+
+}
+.Gani{
+  height: 400px;
+  border-radius: 30px;
+  margin-top: 100px;
+  width:100%;
+}
+.roy{
+margin-left: 280px;
+padding: 10px;
+
+}
+.memory{
+  background-color:royalblue;
+  color: aliceblue;
+  margin-top:-60px;
+  margin-left: -50px;
+}
+.loss{
+  text-align: center;
+  padding-top: 40px;
+}
+.A13{
+  color: white;
+}
+  .aboutpage{
+  background-image: url('../assets/thumb-1920-343179.jpg');
+  height: 800px;
+  width: 100%;
+}
+.low{
+  text-align: center;
+border-radius: 10px;
+border: 3px solid red;
+height: 330px;
+max-width: 400px;
+margin-left: 550px;
+color: white;
+}
+.high{
+  color: white;
+}
+.cinema{
+  text-align: center;
+}
+.mirror{
+  text-align: center;
+  background-color:royalblue;
+  color: white;
+  height: 500px;
+  padding-top: 200px;
+  }
+ .setup{
+  height: 300px;
+ } 
+ .stump{
+  height: 300px;
+ } 
+ .set{
+  height: 300px;
+
+ }
+ .top{
+  height: 300px;
+  padding-top: 40px;
+ } 
+ 
+.gap{
+  padding-top: 80px;
+}
+ 
+ .move{
+  height: 400px;
+ }
+ .cot{
+  background-color: brown;
+  margin-left: -10px;
+ }
+ .royal{
+  background-color: green;
+ }
+ .rahul{
+  text-align: center;
+  margin-left: 400px;
+  padding-top: 50px;
+ }
+ .money{
+  height: 600px;
+  border-radius: 20px;
+ }
+ .moneyram{
+  height: 565px;
+  border-radius: 20px;
+ }
+ .mama{
+  height: 500px;
+  margin-top: 50px;
+ }
+ .rome{
+  height: 500px;
+  margin-top: 50px;
+ }
+ .aglin{
+  background-color: rgb(245, 238, 220);
+
+ }
+ .form-label {
+  color: white;
+  
+  margin-bottom: 10px;
+  display: block;
+  margin-right: 180px;
+ 
+}
+.form-input {
+  width: 300px;
+  background-color: bisque;
+  height: 50px;
+  padding: 10px;
+  margin-top: 4px;
+  border: 1px solid #fbf7f7;
+  border-radius:8px;
+}
+.nani{
+  height: 400px;
+}
+.form{
+  height: 300px;
+  background-color: lightgray;
+}
+.movies{
+  padding-top: 30px;
+  height: 400px;
+}
+.chinnu{
+  background-color: green;
+}
+.backgroundimage2{
+  background-image: url('../assets/Home-Wallpaper-2.jpg');
+  height: 750px;
+  text-align: center;
+  padding-top: 500px;
+  color: white;
+}
+.harry{
+  text-align: center;
+}
+.index{
+  height: 320px;
+  margin-top: 40px;
+}
+.giri{
+  height: 220px;
+}
+.rahul{
+  height: 300px;
+}
+.Giri{
+  height: 250px;
+}
+.rupee{
+  background-color: green;
+}
+
+.card-button{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  position: absolute;
+  top:5px;
+  left: 5px;
+}
+.carosual{
+  height: 400px;
+  margin-top: 125px;
+  margin-left: 120px;
+}
+.down{
+  margin-top: 80px;
+}
+.quantity-selector {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 25px;
+}
+.quantity-selector button {
+  padding: 5px 10px;
+}
+
+.quantity-selector input {
+  width: 50px;
+  text-align: center;
+}
+.add-to-cart {
+  padding: 10px 15px;
+  background: black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+
+.downtown{
+  height: 300px;
+  margin-top: 125px;
+  margin-left: 100px;
+}
+.realestate {height: 250px;
+margin-top: 125px;
+margin-left: 20px;
+}
+.estate{
+  margin-top: 130px;
+}
+.strip{
+  padding-top:30px;
+}
+.today{
+  margin-left: 450px;
+}
+body{
+  background:whitesmoke;
+}
+.wrapper{
+  width: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #262626;
+  padding: 50px;
+  color: #fff;
+  text-align: center;
+}
+.wrapper h2{
+  text-transform: uppercase;
+  font-family: poppins;
+  margin-bottom: 10px;
+}
+input[type="text"]{
+  height: 40px;
+  font-size: 24px;
+}
+button{
+  background: #ee4477;
+  border: none;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 25px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-family: poppins;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+input[type="radio"]{
+  width: 20px;
+  height: 20px;
+}
+b{
+  font-size: 30px;
+} 
